@@ -1,4 +1,4 @@
-# Pneumonia-Analysis-System-Based-on-CNN
+# A Pneumonia Analysis System Based on CNN
 **Xiangnan Zhang** <br/>
 School of Future Technology, Beijing Institute of Technology
 ## Introduction
