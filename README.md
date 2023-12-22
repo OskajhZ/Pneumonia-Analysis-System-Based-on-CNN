@@ -34,7 +34,7 @@ Dense | 2, Softmax
 ## Data Preprosessing
 While the size of images in the Dataset are not the same, as well as to maintain their features, all the images are resized as 1100*1100 befor being inputted into the model.
 It seems like this:
-![Image]("C:\prog\image.png") <br/>
+![Image](https://img-blog.csdnimg.cn/direct/0efca1dc46014be494fedef06fa9aa7e.png) <br/>
 > Notice: This is the output from the sorce file Predict(for user).ipynb.
 
 
