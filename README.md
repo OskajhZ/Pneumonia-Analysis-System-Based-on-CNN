@@ -1,5 +1,5 @@
 # Pneumonia-Analysis-System-Based-on-CNN
-Xiangnan Zhang <br/>
+**Xiangnan Zhang** <br/>
 School of Future Technology, Beijing Institute of Technology
 ## Introduction
 This Model realized a dicotomy between normal and pneumonia according to X-ray images. 
