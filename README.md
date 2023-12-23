@@ -4,6 +4,8 @@ School of Future Technology, Beijing Institute of Technology
 ## Introduction
 This Model realized a dicotomy between normal and pneumonia according to X-ray images. 
 The classification accuracy is about 90% (in test dataset with 624 images). The TensorFlow subclassed model is saved as Model_1(SaveModel format). Source files including training programme and testing programme are in the folder Source_File.
+<br/>
+For Chinese introduction, you can click [here](https://blog.csdn.net/bgshuxuanzxn/article/details/135121821?spm=1001.2014.3001.5502)
 ## About File Directories
 FolderName | Discription
 -|-
